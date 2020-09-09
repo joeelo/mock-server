@@ -1,0 +1,11 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "are-fish-oils-and-omega-3's-good-for-your-dog?",
+      "meta": ["dogs", "optimum", "omega", "food", "Dr. Jeff's Pets", "Dr. Jeff"],
+      "thumbnail-info": "<p>Hi Pet Parents!</p> <p>I receive a lot of questions about pup health and proper nutrition, so I thought I’d create a blog here at DrJeffsPets.com to answer some of your most common concerns.</p>", 
+      "content": "<p>Hi, fellow pet parents!</p><p>I receive a lot of questions about pup health and proper nutrition, so I thought i'd create a blog here at DrJeffsPets.com to answer some of your most common concerns.</p><p> One question I get asked a lot is: <strong> Are fish oils and omega-3s good for my dog?</strong></p><img style='max-width: 100%;' src='https://images.unsplash.com/photo-1494947665470-20322015e3a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80'><p>The short answer is YES. Let me explain the many, many benefits of omega-3s:</p><p>Dogs have a nutritional need for omega-3 fatty acids in their diets, just like people do. And just like with humans, a dog’s body does not naturally create enough of their own omega-3s. So, introducing foods that are rich in these essential fatty acids will offer major health benefits for your pal.</p><p>The two main pro-inflammatory omega-3s are docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), both of which are found in fatty fish (especially salmon, tuna, sardines, trout and mackerel), shellfish, seaweed, kelp and krill.</p>"
+    }
+  ]
+}
