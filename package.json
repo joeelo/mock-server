@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js",
-    "run:prod": "node app.js",
+    "run:dev": "nodemon PORT=3005 app.js",
     "json:server": "json-server --watch db.json --port 3005"
   },
   "keywords": [],
@@ -19,5 +19,8 @@
     "json-server": "^0.16.1",
     "mongoose": "^5.10.4",
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
